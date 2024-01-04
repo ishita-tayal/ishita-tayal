@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 👋 This is Ishita
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: ishitatayal05@gmail.com
 - 😄 Pronouns: she/her
