@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey! I'm Ishita 🫶:
 I'm Ishita, second year ECE undergrad @ NIT Kurukshetra <3
 
 
